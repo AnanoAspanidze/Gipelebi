@@ -1,0 +1,9 @@
+c:\users\anano-pc\documents\visual studio 2013\Projects\DefaultConsoleApplication\DefaultConsoleApplication\bin\Debug\DefaultConsoleApplication.exe.config
+c:\users\anano-pc\documents\visual studio 2013\Projects\DefaultConsoleApplication\DefaultConsoleApplication\bin\Debug\DefaultConsoleApplication.exe
+c:\users\anano-pc\documents\visual studio 2013\Projects\DefaultConsoleApplication\DefaultConsoleApplication\bin\Debug\DefaultConsoleApplication.pdb
+c:\users\anano-pc\documents\visual studio 2013\Projects\DefaultConsoleApplication\DefaultConsoleApplication\obj\Debug\DefaultConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\anano-pc\documents\visual studio 2013\Projects\DefaultConsoleApplication\DefaultConsoleApplication\obj\Debug\DefaultConsoleApplication.exe
+c:\users\anano-pc\documents\visual studio 2013\Projects\DefaultConsoleApplication\DefaultConsoleApplication\obj\Debug\DefaultConsoleApplication.pdb
+C:\Users\Anano-PC\Documents\GitHub\Gipelebi\DefaultConsoleApplication\DefaultConsoleApplication\bin\Debug\DefaultConsoleApplication.exe.config
+C:\Users\Anano-PC\Documents\GitHub\Gipelebi\DefaultConsoleApplication\DefaultConsoleApplication\obj\Debug\DefaultConsoleApplication.exe
+C:\Users\Anano-PC\Documents\GitHub\Gipelebi\DefaultConsoleApplication\DefaultConsoleApplication\obj\Debug\DefaultConsoleApplication.pdb
